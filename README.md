@@ -1,120 +1,52 @@
+# Job Tracker
 
-# 📂 Job Tracker - Full Stack Application
-
-A complete full-stack application built with **Node.js**, **Express**, **MongoDB**, and **React** (MERN). This project enables users to manage job applications, companies, and users with full authentication, role-based access, and real-time CRUD operations.
-
----
-
-## 🧠 Overview
-
-This repo contains both the frontend and backend code for the Job Tracker app. It was initially a learning exercise in full-stack development, now evolved into a robust MERN application with full CRUD capabilities and secure authentication.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React (with Vite), React Router, Context API, CSS
-- **Backend:** Node.js, Express, MongoDB, Mongoose
-- **Authentication:** JWT, Role-based access
-- **Environment:** Vite (frontend), dotenv (backend)
-- **Deployment:** Vercel (frontend), Render/Heroku (backend) *(planned)*
+A **job tracking application for recruiters** built using the **MERN stack**.  
+This tool helps recruiters organize and manage applicants across different stages of the hiring pipeline with role-based analytics.
 
 ---
 
 ## 🚀 Features
 
-- Register/Login system with JWT authentication
-- Role-based access: Admin vs Regular Users
-- Full CRUD for:
-  - Users (admin only)
-  - Companies
-  - Job Applications
-- Dynamic user linking in applications
-- Website link support in forms
-- Responsive, mobile-friendly dark theme
-- Context-based global login state
-- Seed script with mock data for rapid setup
+- **Kanban Board**  
+  Track applicants through the recruitment stages:
+  - Applied  
+  - Interview  
+  - Offer  
+  - Rejected  
+
+- **Role-Based Applicant Numbers**  
+  View the number of applicants per role with dynamic updates.  
+
+- **Analytics Dashboard**  
+  Visualize applicant distribution using bar charts for better insights.  
+
+- **Authentication**  
+  Secure login to ensure recruiters manage applications privately and efficiently.  
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tech Stack
 
-```
-/frontend     --> React client (Login, Register, CRUD UI)
-/backend      --> Express API (auth, apps, users, companies)
-/README.md    --> This file
-```
-
-Each subdirectory includes its own README for details and setup.
+- **Frontend:** React.js 
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT  
 
 ---
 
-## ⚙️ Setup Instructions
+---
 
-### 1. Backend Setup
+## 🎯 Purpose
 
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file in `/backend`:
-
-```
-MONGO_URI=your_mongo_connection_string
-JWT_SECRET=your_secret_key
-PORT=5001
-```
-
-Run the backend:
-
-```bash
-npm run dev
-```
-
-### 2. Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### 3. Seed the Database
-
-```bash
-cd backend
-node seed.js
-```
+The Job Tracker app is designed for recruiters to **streamline applicant tracking**, **analyze role-wise applications**, and **make hiring decisions faster** with a clear overview of the recruitment pipeline.
 
 ---
 
-## 📌 Notes
+## 🌟 Future Enhancements
 
-- Initially started as a CRUD experiment, now a full MERN-style project
-- Shows integration of full-stack technologies with real-world features
-- Authentication and protected routing fully implemented
-- Fully expandable into dashboards, analytics, filters, and more
+- Notifications & reminders  
+- Collaborative recruiter dashboard  
+- Advanced filtering & search  
 
----
 
-## 📈 Future Enhancements
 
-- Add search, filtering, and pagination to lists
-- Dashboard views with stats/analytics
-- Notifications or toast feedback
-- Deployment and hosting (Render + Vercel)
-
----
-
-## ✅ Current Status
-
-- ✔️ CRUD complete for Users, Companies, Applications
-- ✔️ Authentication implemented with login/register and role control
-- 🔜 Deployment and advanced UI features next
-
----
-
-## 🔗 Live Demo
-
-https://joses-job-tracker.vercel.app/
