@@ -35,6 +35,29 @@ This tool helps recruiters organize and manage applicants across different stage
 ---
 
 ---
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+![Home](./screenshots/Screenshot%202025-08-28%20185540.png)  
+
+### 🔐 Login & Registration  
+![Login](./screenshots/Screenshot%202025-08-28%20220218.png)  
+![Register](./screenshots/Screenshot%202025-08-28%20220228.png)  
+
+### 📊 Recruiter Dashboard  
+![Dashboard](./screenshots/Screenshot%202025-08-28%20220235.png)  
+
+### 🧑‍💼 Applicant Management  
+![Applicants](./screenshots/Screenshot%202025-08-28%20224519.png)  
+![Applicants](./screenshots/Screenshot%202025-08-28%20224536.png)  
+
+### 📈 Analytics  
+![Analytics](./screenshots/Screenshot%202025-08-28%20224547.png)  
+
+### 📌 Job Postings  
+![Job Postings](./screenshots/Screenshot%202025-08-28%20224556.png)  
+
+---
 
 ## 🎯 Purpose
 
