@@ -17,8 +17,8 @@ This tool helps recruiters organize and manage applicants across different stage
 - **Role-Based Applicant Numbers**  
   View the number of applicants per role with dynamic updates.
 
-- **Searching**
-   Search applicant by name, email, or role
+- **Searching**  
+  Search applicants by name, email, or role.
 
 - **Analytics Dashboard**  
   Visualize applicant distribution using bar charts for better insights.  
