@@ -12,10 +12,13 @@ This tool helps recruiters organize and manage applicants across different stage
   - Applied  
   - Interview  
   - Offer  
-  - Rejected  
+  - Rejected
 
 - **Role-Based Applicant Numbers**  
-  View the number of applicants per role with dynamic updates.  
+  View the number of applicants per role with dynamic updates.
+
+- **Searching**
+   Search applicant by name, email, or role
 
 - **Analytics Dashboard**  
   Visualize applicant distribution using bar charts for better insights.  
@@ -38,24 +41,25 @@ This tool helps recruiters organize and manage applicants across different stage
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](./screenshots/Screenshot%202025-08-28%20185540.png)  
+![Home](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20220218.png)  
 
 ### 🔐 Login & Registration  
-![Login](./screenshots/Screenshot%202025-08-28%20220218.png)  
-![Register](./screenshots/Screenshot%202025-08-28%20220228.png)  
+![Login](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20220235.png)  
+![Register](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20220228.png)  
 
 ### 📊 Recruiter Dashboard  
-![Dashboard](./screenshots/Screenshot%202025-08-28%20220235.png)  
+![Dashboard](https://github.com/mjsswaroop/Jobtracker/blob/aa6b5bbc66855077c08c960761e32f97b604b0a8/screenshots/Screenshot%202025-08-28%20225542.png)  
+
 
 ### 🧑‍💼 Applicant Management  
-![Applicants](./screenshots/Screenshot%202025-08-28%20224519.png)  
-![Applicants](./screenshots/Screenshot%202025-08-28%20224536.png)  
+![Applicants](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20224536.png)  
+![Applicants](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20224547.png)  
 
 ### 📈 Analytics  
-![Analytics](./screenshots/Screenshot%202025-08-28%20224547.png)  
+![Analytics](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20224519.png)  
 
 ### 📌 Job Postings  
-![Job Postings](./screenshots/Screenshot%202025-08-28%20224556.png)  
+![Job Postings](https://github.com/mjsswaroop/Jobtracker/blob/07913b82154e1beb466c246008b4e37aada524b2/screenshots/Screenshot%202025-08-28%20224556.png)  
 
 ---
 
@@ -69,7 +73,9 @@ The Job Tracker app is designed for recruiters to **streamline applicant trackin
 
 - Notifications & reminders  
 - Collaborative recruiter dashboard  
-- Advanced filtering & search  
+- Advanced filtering & search
+- Light and Dark theme
+- Drag and drop for uploading files
 
 
 
